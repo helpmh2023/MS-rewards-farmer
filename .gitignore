@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Project Data
+data-dir/
+telegram_config.json
+visual_search.json
+*.png
+*.jpg
+*.txt
+!nouns.txt
+Todo.md
+
+# OS
+.DS_Store
+Thumbs.db
